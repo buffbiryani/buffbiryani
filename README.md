@@ -1,3 +1,3 @@
 [anishnandamuri.com](https://anishnandamuri.com)
 
-aicanopy.vercel.app (in progress)
+[aicanopy.app](aicanopy.vercel.app) (in progress)
